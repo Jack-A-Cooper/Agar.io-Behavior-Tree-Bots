@@ -12,3 +12,9 @@ Follow this setup page:
 https://github.com/huytd/agar.io-clone/wiki/Setup  
 
 When gulp is working, type ```http://localhost:3000/``` in your browser, the game should be loaded.  
+
+Credits: 
+Jack Cooper
+Jian Wu
+Jeffrey Zhang
+Daniel Vu
