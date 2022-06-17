@@ -1,6 +1,10 @@
 # cmpm146-io-project
 Group Repository for CMPM 146 Game AI Final Project
 
+Summary: Converts Ogar3's AI bot implementation into a behavior tree based-implementation to increase modularity and reactivity, and to improve upon the bots' strategic/tactical performances.  
+
+(original open source project: https://github.com/Faris90/Ogar3).  
+
 To get Agar clone work:  
 Get Node.js 11.15.0 and npm 6.7.0:  
 Windows(x64):  
