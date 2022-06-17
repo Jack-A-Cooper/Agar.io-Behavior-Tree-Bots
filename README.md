@@ -1,7 +1,7 @@
 # cmpm146-io-project
 Group Repository for CMPM 146 Game AI Final Project
 
-Summary: Converts Ogar3's AI bot implementation into a behavior tree based-implementation to increase modularity and reactivity, and to improve upon the bots' strategic/tactical performances.  
+Summary: Redesigns Ogar3's AI bot implementation to improve upon the bots' strategic/tactical performances, and to implementent it as a behavior tree system to increase modularity and reactivity.  
 
 (original open source project: https://github.com/Faris90/Ogar3).  
 
